@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#485498</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dd_colorPrimary">#45becf</color>
+    <color name="dd_colorPrimaryDark">#348e9b</color>
+    <color name="dd_colorAccent">#d08d10</color>
+    <color name="blue">#82c5e6</color>
+    <color name="foreground_material_light">#000000</color>
+</resources>
